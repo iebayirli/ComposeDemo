@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose Demo</string>
+
+    <string name="title_bottom_home">Home</string>
+    <string name="title_bottom_profile">Profile</string>
+    <string name="title_bottom_favorites">Favorites</string>
+    <string name="title_bottom_empty"> </string>
+</resources>
